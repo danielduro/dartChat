@@ -2,7 +2,7 @@ import 'dart:html';
 import 'dart:async';
 
 import 'package:angular2/core.dart';
-import 'package:firebase3/firebase.dart' as fb;
+import 'package:firebase/firebase.dart' as fb;
 
 @Injectable()
 class FirebaseService {
